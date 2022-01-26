@@ -84,7 +84,7 @@
 
 .welcome::before{
     content: "";
-    background: url(/image/Remini20220124210730457.jpg) no-repeat center center/cover;
+    background: url(./image/Remini20220124210730457.jpg) no-repeat center center/cover;
     height: 100%;
     width: 100%;
     position: absolute;
@@ -155,7 +155,7 @@
 
 .details ul::before{
     content: "";
-    background: url(/image/png-back.png) no-repeat center center/cover;
+    background: url(./image/png-back.png) no-repeat center center/cover;
     height: 200px;
     width: 250px;
     position: absolute;
